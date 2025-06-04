@@ -1,0 +1,12 @@
+[DONE] Fix ">" commands
+[TODO] Fix time out errors
+[MAYBE DONE] FIX FILE ERROR (THEY STILL WORK!)
+[TODO] Have More DM user on actions.
+[TODO] Add customizablity
+[TODO] Add a public repository of command modules (just drop them into commands and rerun the build)
+[TODO] Rewrite in Python for python people and low end servers
+[TODO] Other things
+[DONE] Add a how to make a bot and DB section
+[DONE] Add comments for the regular to beable to figure things out
+
+Hi Github I didnt edit my .gitignore to ignore this so I hope you enjoy
