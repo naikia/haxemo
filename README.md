@@ -4,7 +4,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![Discord.js](https://img.shields.io/badge/Discord.js-14+-blue.svg)](https://discord.js.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Compatible-green.svg)](https://mongodb.com/)
-[![Support Server](https://img.shields.io/badge/Discord-Support%20Server-7289da.svg?logo=discord&logoColor=white)](https://noans.space)
+[![Support Server](https://img.shields.io/badge/Discord-Support%20Server-7289da.svg?logo=discord&logoColor=white)](https://discord.gg/72rafaY2rq)
 [![Website](https://img.shields.io/badge/Website-Noans's_Space-orange.svg)](https://noans.space)
 
 A comprehensive Discord moderation bot with rotating status messages, MongoDB integration, developer commands, and advanced logging features.
